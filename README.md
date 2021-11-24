@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Majinoo
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ... c#
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
